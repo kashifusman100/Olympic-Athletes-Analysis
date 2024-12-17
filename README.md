@@ -32,7 +32,7 @@ Tableau Dashboard: Olympics Athletes Insights
 ## Athlete Participation Over Time
 In 1896, the first modern Olympics featured only 176 athletes. By 2016, participation had grown to 10,903 athletes, showcasing its transformation into a global sporting event. It highlights the steady growth in athlete participation, reflecting increased global interest, better accessibility, and expanded inclusion of new sports.
 
-<img src="./Visualizations/Athlete%20Participation%20Over%20Time.png" alt="Athlete Participation Over Time" width="500">
+<img src="./Visualizations/Athlete%20Participation%20Over%20Time.png" alt="Athlete Participation Over Time" width="750">
 
 ## Male & Female Ratio Over Time
 In 1900, only 21 female athletes competed alongside 1,036 males, accounting for a mere fraction of total participants. By 2016, significant strides in gender equality were evident, with 6,003 male athletes and 4,009 female athletes. It illustrates the gradual narrowing of the gender gap, driven by changing societal norms and increased inclusion of women in various sports.
