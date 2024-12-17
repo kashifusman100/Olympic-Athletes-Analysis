@@ -6,7 +6,7 @@ This project explores the history of the modern Olympic Games, spanning from Ath
 , providing a clear understanding of athlete participation, gender ratios, medal distribution, and age variations across sports.
 
 ## Dataset:
-- athlete_events.csv
+[Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results))
 
 ## Software:
 - SSMS (Microsoft SQL Server Management Studio)
