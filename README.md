@@ -13,18 +13,22 @@ This project explores the history of the modern Olympic Games, spanning from Ath
 
 ## ETL
 1.EXTRACT
+
 Extracted from Kaggle’s 120 Years of Olympic History Dataset
 Filtered historical data of modern Olympic Games spanning 1896 to 2016
 Evaluated 271,116 rows and 15 columns containing details like athlete demographics, events, and medal records.
 
 2.TRANSFORM
+
 Data Cleaning: Identified and removed almost 10,000 duplicate rows. Checked for and addressed missing values in critical fields such as Medal, Age, Height, and Weight. Removed rows with incorrect or unrealistic values (e.g., age outliers).
 Data Transformation: Renamed and standardized column names for clarity and consistency. Performed SQL queries to extract trends, group data, and calculate aggregate statistics for analysis.
 Normalization and Preparation: Ensured the dataset was cleaned, formatted, and analysis-ready for Tableau visualizations.
 
 3.LOAD
+
 Exported the cleaned and transformed data into .CSV format for visualization.
 Tool for Visualization: Tableau
+
 Tableau Dashboard: Olympics Athletes Insights
 
 ## Visualizations and Insights
@@ -32,7 +36,7 @@ Tableau Dashboard: Olympics Athletes Insights
 ## Athlete Participation Over Time
 In 1896, the first modern Olympics featured only 176 athletes. By 2016, participation had grown to 10,903 athletes, showcasing its transformation into a global sporting event. It highlights the steady growth in athlete participation, reflecting increased global interest, better accessibility, and expanded inclusion of new sports.
 
-<img src="./Visualizations/Athlete%20Participation%20Over%20Time.png" alt="Athlete Participation Over Time" width="750">
+<img src="./Visualizations/Athlete%20Participation%20Over%20Time.png" alt="Athlete Participation Over Time" width="800">
 
 ## Male & Female Ratio Over Time
 In 1900, only 21 female athletes competed alongside 1,036 males, accounting for a mere fraction of total participants. By 2016, significant strides in gender equality were evident, with 6,003 male athletes and 4,009 female athletes. It illustrates the gradual narrowing of the gender gap, driven by changing societal norms and increased inclusion of women in various sports.
