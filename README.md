@@ -20,16 +20,15 @@ Evaluated 271,116 rows and 15 columns containing details like athlete demographi
 
 2.TRANSFORM
 
-Data Cleaning: Identified and removed almost 10,000 duplicate rows. Checked for and addressed missing values in critical fields such as Medal, Age, Height, and Weight. Removed rows with incorrect or unrealistic values (e.g., age outliers).
-Data Transformation: Renamed and standardized column names for clarity and consistency. Performed SQL queries to extract trends, group data, and calculate aggregate statistics for analysis.
+Data Cleaning: Identified and removed almost 10,000 duplicate rows. Checked for and addressed missing values in critical fields such as Medal, Age, Height, and Weight. Removed rows with incorrect or unrealistic values (e.g., age outliers).  
+Data Transformation: Renamed and standardized column names for clarity and consistency. Performed SQL queries to extract trends, group data, and calculate aggregate statistics for analysis.  
 Normalization and Preparation: Ensured the dataset was cleaned, formatted, and analysis-ready for Tableau visualizations.
 
 3.LOAD
 
-Exported the cleaned and transformed data into .CSV format for visualization.
-Tool for Visualization: Tableau
-
-Tableau Dashboard: Olympics Athletes Insights
+Exported the cleaned and transformed data into .CSV format for visualization.  
+Tool for Visualization: Tableau  
+Tableau Dashboard: Olympics Athletes Insights  
 
 ## Visualizations and Insights
 
@@ -41,22 +40,22 @@ In 1896, the first modern Olympics featured only 176 athletes. By 2016, particip
 ## Male & Female Ratio Over Time
 In 1900, only 21 female athletes competed alongside 1,036 males, accounting for a mere fraction of total participants. By 2016, significant strides in gender equality were evident, with 6,003 male athletes and 4,009 female athletes. It illustrates the gradual narrowing of the gender gap, driven by changing societal norms and increased inclusion of women in various sports.
 
-![Revenue By Country](./Charts/Revenue%20By%20Country%20(Bar%20Chart).png)
+![M & F Ratio Over Time](./Visualizations/M%20&%20F%20Ratio%20Over%20Time.pngg)
 
 ## Top 10 Medalists
 Russian athletes are dominated in top 10 medalists with 4 spots. Leading the list is Larysa Semenivna Latynina from Russia with 18 medals. 
 
-![Revenue By Country](./Charts/Revenue%20By%20Country%20(Bar%20Chart).png)
+![Top 10 Medalists](./Visualizations/Top%2010%20Medalists.png)
 
 ## Top 10 Countries with Most Medals
 The United States leads the Olympic medal tally, with 4,390 medals. Following closely are Russia and Germany. China, despite entering the Games much later, secured the 10th spot with 901 medals, showcasing rapid progress.
 
-![Revenue By Country](./Charts/Revenue%20By%20Country%20(Bar%20Chart).png)
+![Top 10 Countries with Most Medals](./Visualizations/Top%2010%20Countries%20with%20Most%20Medals.png)
 
 ## Average Age by Sport
 Gymnastics features the youngest athletes with an average age of 19 years, where agility and flexibility play a critical role. On the other hand, Roque, a precision sport, has the oldest average age of 47 years.
 
-![Avg Age By Sport](./Visualizations/Avg%20Age%20By%20Sport.png)
+![Visualizations/Avg Age By Sport](./Visualizations/Avg%20Age%20By%20Sport.png)
 
 ## Key Findings
 - The Olympics grew from 176 athletes in 1896 to 10,903 athletes in 2016.
