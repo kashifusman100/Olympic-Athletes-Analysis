@@ -29,7 +29,7 @@ Normalization and Preparation: Ensured the dataset was cleaned, formatted, and a
 
 Exported the cleaned and transformed data into .CSV format for visualization.  
 Tool for Visualization: Tableau  
-Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/kashif.usman/viz/OlympicsAthletesInsights/Dashboard))
+Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/kashif.usman/viz/OlympicsAthletesInsights/Dashboard)
 
 ## Visualizations and Insights
 
