@@ -2,7 +2,7 @@
 To analyze the history of the Olympic Games and it's athletes, spanning from Athens 1896 to Rio 2016.
 
 ## Project Description 
-This project explores the history of the modern Olympic Games, spanning from Athens 1896 to Rio 2016. Using SQL in Microsoft SQL Server Management Studio (SSMS), I performed data cleaning, transformation, and analysis to uncover valuable insights and trends. The findings were then [visualized using Tableau](https://public.tableau.com/app/profile/kashif.usman/viz/OlympicsAthletesInsights/Dashboard))
+This project explores the history of the modern Olympic Games, spanning from Athens 1896 to Rio 2016. Using SQL in Microsoft SQL Server Management Studio (SSMS), I performed data cleaning, transformation, and analysis to uncover valuable insights and trends. The findings were then [visualized using Tableau](https://public.tableau.com/app/profile/kashif.usman/viz/OlympicsAthletesInsights/Dashboard)
 , providing a clear understanding of athlete participation, gender ratios, medal distribution, and age variations across sports.
 
 ## Dataset:
