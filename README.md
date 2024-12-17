@@ -2,7 +2,8 @@
 To analyze the history of the Olympic Games and it's athletes, spanning from Athens 1896 to Rio 2016.
 
 ## Project Description 
-This project explores the history of the modern Olympic Games, spanning from Athens 1896 to Rio 2016. Using SQL in Microsoft SQL Server Management Studio (SSMS), I performed data cleaning, transformation, and analysis to uncover valuable insights and trends. The findings were then visualized using Tableau, providing a clear understanding of athlete participation, gender ratios, medal distribution, and age variations across sports.
+This project explores the history of the modern Olympic Games, spanning from Athens 1896 to Rio 2016. Using SQL in Microsoft SQL Server Management Studio (SSMS), I performed data cleaning, transformation, and analysis to uncover valuable insights and trends. The findings were then [visualized using Tableau](https://public.tableau.com/app/profile/kashif.usman/viz/OlympicsAthletesInsights/Dashboard))
+, providing a clear understanding of athlete participation, gender ratios, medal distribution, and age variations across sports.
 
 ## Dataset:
 - athlete_events.csv
@@ -28,7 +29,7 @@ Normalization and Preparation: Ensured the dataset was cleaned, formatted, and a
 
 Exported the cleaned and transformed data into .CSV format for visualization.  
 Tool for Visualization: Tableau  
-Tableau Dashboard: Olympics Athletes Insights  
+Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/kashif.usman/viz/OlympicsAthletesInsights/Dashboard))
 
 ## Visualizations and Insights
 
@@ -40,7 +41,7 @@ In 1896, the first modern Olympics featured only 176 athletes. By 2016, particip
 ## Male & Female Ratio Over Time
 In 1900, only 21 female athletes competed alongside 1,036 males, accounting for a mere fraction of total participants. By 2016, significant strides in gender equality were evident, with 6,003 male athletes and 4,009 female athletes. It illustrates the gradual narrowing of the gender gap, driven by changing societal norms and increased inclusion of women in various sports.
 
-![M & F Ratio Over Time](./Visualizations/M%20&%20F%20Ratio%20Over%20Time.pngg)
+![M & F Ratio Over Time](./Visualizations/M%20&%20F%20Ratio%20Over%20Time.png)
 
 ## Top 10 Medalists
 Russian athletes are dominated in top 10 medalists with 4 spots. Leading the list is Larysa Semenivna Latynina from Russia with 18 medals. 
