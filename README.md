@@ -15,23 +15,6 @@ The modern Olympic Games have evolved from a modest gathering in 1896 to a globa
 - SSMS (Microsoft SQL Server Management Studio)
 - Tableau for creating visualizations and an interactive dashboard
 
-## ETL
-1.EXTRACT
-
-Extracted from Kaggle’s 120 Years of Olympic History Dataset
-Filtered historical data of modern Olympic Games spanning 1896 to 2016
-Evaluated 271,116 rows and 15 columns containing details like athlete demographics, events, and medal records.
-
-2.TRANSFORM
-
-Data Cleaning: Identified and removed almost 10,000 duplicate rows. Checked for and addressed missing values in critical fields such as Medal, Age, Height, and Weight. Removed rows with incorrect or unrealistic values (e.g., age outliers).  
-Data Transformation: Renamed and standardized column names for clarity and consistency. Performed SQL queries to extract trends, group data, and calculate aggregate statistics for analysis.  
-Normalization and Preparation: Ensured the dataset was cleaned, formatted, and analysis-ready for Tableau visualizations.
-
-3.LOAD
-
-Exported the cleaned and transformed data into .CSV format for visualization.  
-Tool for Visualization: Tableau  
 Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/kashif.usman/viz/OlympicsAthletesInsights/Dashboard)
 
 ## Visualizations and Insights
