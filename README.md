@@ -15,7 +15,7 @@ The modern Olympic Games have evolved from a modest gathering in 1896 to a globa
 - SSMS (Microsoft SQL Server Management Studio)
 - Tableau for creating visualizations and an interactive dashboard
 
-Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/kashif.usman/viz/OlympicsAthletesInsights/Dashboard)
+Tableau Dashboard: [Dashboard](https://public.tableau.com/app/profile/kashif.usman/viz/OlympicsAthletesInsights/Dashboard)
 
 ## Visualizations and Insights
 
