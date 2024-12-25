@@ -5,6 +5,9 @@ To analyze the history of the Olympic Games and it's athletes, spanning from Ath
 This project explores the history of the modern Olympic Games, spanning from Athens 1896 to Rio 2016. Using SQL in Microsoft SQL Server Management Studio (SSMS), I performed data cleaning, transformation, and analysis to uncover valuable insights and trends. The findings were then [visualized using Tableau](https://public.tableau.com/app/profile/kashif.usman/viz/OlympicsAthletesInsights/Dashboard)
 , providing a clear understanding of athlete participation, gender ratios, medal distribution, and age variations across sports.
 
+## Problem Statement
+The modern Olympic Games have evolved from a modest gathering in 1896 to a global celebration of athleticism and unity by 2016. This project examines the history of the Games, uncovering trends in athlete participation, gender equality, medal achievements, and age dynamics across sports. The analysis sheds light on how the Olympics have reflected and driven societal progress while showcasing the diversity and inclusivity of sports on the world stage.
+
 ## Dataset:
 [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
